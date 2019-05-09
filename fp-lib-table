@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name gpib_connectors)(type KiCad)(uri ${KIPRJMOD}/gpib_connectors.pretty)(options "")(descr ""))
+  (lib (name Arduino)(type KiCad)(uri ${KIPRJMOD}/arduino-kicad-library-master/Arduino.pretty)(options "")(descr ""))
+)
